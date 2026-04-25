@@ -10,4 +10,6 @@ A forecasting and workforce planning platform for predicting customer support de
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](images/dashboard.png)
+## Dashboard Preview
+
+![Dashboard Screenshot](dashboard.png)
