@@ -7,3 +7,7 @@ A forecasting and workforce planning platform for predicting customer support de
 - Operational dashboard in Streamlit
 - Forecasting models (upcoming)
 - Staffing recommendations (upcoming)
+
+## Dashboard Preview
+
+![Dashboard Screenshot](images/dashboard.png)
